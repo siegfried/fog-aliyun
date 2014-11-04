@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Zhi-Qiang Lei"]
   spec.email         = ["zhiqiang.lei@gmail.com"]
   spec.summary       = %q{A fog extension to support aliyun.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = %q{A fog extension to support aliyun.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
