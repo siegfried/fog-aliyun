@@ -1,6 +1,6 @@
 # Fog::Aliyun
 
-TODO: Write a gem description
+A fog extension to support aliyun.
 
 ## Installation
 

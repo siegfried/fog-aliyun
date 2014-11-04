@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Fog::Aliyun::VERSION
   spec.authors       = ["Zhi-Qiang Lei"]
   spec.email         = ["zhiqiang.lei@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{A fog extension to support aliyun.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
